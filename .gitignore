@@ -64,3 +64,4 @@ typings/
 
 input/
 output/
+!.gitkeep
