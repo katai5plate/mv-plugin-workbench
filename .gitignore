@@ -62,6 +62,6 @@ typings/
 
 # -----------
 
-input/
-output/
+input/*
+output/*
 !.gitkeep
